@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi, I'm Mahmoud 👋
+<h1 align="center">Hi, I'm Mahmoud 👋</h1><hr>
  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 I'm a software developer (Backend Developer) from Egypt. I enjoy coding open-source projects that solve unique problems.
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/MahmodMahdi/MahmodMahdi/blob/master/gifs/Hi.gif" width="30px"></h2>
+
 
 
 
