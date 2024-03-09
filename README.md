@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mahmoud 👋</h1>
 <p align="center">
- <a href=" https://www.linkedin.com/in/mahmoud-amin-145272290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
+ <a href=" https://www.linkedin.com/in/mahmoud-amin-145272290?"></a><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
   </p>
 I'm a software developer (Backend Developer)
 <h3 align="left">Languages and Tools:</h3>
