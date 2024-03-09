@@ -4,12 +4,6 @@
 I'm a software developer (Backend Developer) from Egypt. I enjoy coding open-source projects that solve unique problems.
 
 
-
-
-
-
-<img src="https://github.com/MahmodMahdi/MahmodMahdi/blob/master/images/header_image.png" width="800"></a>
-
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
