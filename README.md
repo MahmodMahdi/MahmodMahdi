@@ -20,7 +20,7 @@ I'm a software developer (Backend Developer)
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?MahmodMahdi&show_icons=true&locale=en&layout=compact" alt="MahmodMahdi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmodMahdi&show_icons=true&locale=en&layout=compact" alt="MahmodMahdi" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmodMahdi&" alt="MahmodMahdi" /></p>
