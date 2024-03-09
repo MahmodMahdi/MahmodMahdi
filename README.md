@@ -21,22 +21,16 @@
 </p>
 
 - 💬 Ask me about
-
-
 - 📝 I regularly write articles on  <a href=" https://www.linkedin.com/in/mahmoud-amin-145272290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
 
 - 💬 Ask me about *C#, OOP , Solid_Principles , Sql_Server , LiNQ , EntityFrameWork , MVC , WebApi , Repository Pattern With Unit Of Work , JWT , Clean Archeticture*
 
 - 📫 How to reach me *MahmoudElmahdy555@gmail.com*
 
-
 ## 📊 &nbsp;Stats
-
-<div>
 ![Mahmoud' Github Stats](https://github-readme-stats.vercel.app/api?username=MahmodMahdi&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmodMahdi&show_icons=true&locale=en&layout=compact" alt="MahmodMahdi" /></p>
-</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmodMahdi&" alt="MahmodMahdi" /></p>
 
