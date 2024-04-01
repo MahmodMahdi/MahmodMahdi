@@ -21,7 +21,7 @@
 </p>
 
 - 💬 Ask me about
-- 📝 I regularly write articles on [- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-el-tablawy-282900265/](https://www.linkedin.com/in/mahmoud-eltablawy-282900265/)]
+- 📝 I regularly write articles on [- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-amin-145272290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mahmoud-amin-145272290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💬 Ask me about *C#, OOP , Solid_Principles , Sql_Server , LiNQ , EntityFrameWork , MVC , WebApi , Repository Pattern With Unit Of Work , JWT , Clean Archeticture*
 
