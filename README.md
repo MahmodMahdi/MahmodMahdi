@@ -4,7 +4,7 @@
 ## I'm a Computer Science and Engineering Student (Backend Developer) from Egypt. I enjoy coding open-source projects that solve unique problems.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmodMahdi&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-amin" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmodMahdi" alt="mahmoud-amin" /></a> </p>
- <a href="[https://www.linkedin.com/in/mahmoud-amin-145272290?](https://www.linkedin.com/feed/)"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<img <a href="[https://www.linkedin.com/in/mahmoud-amin-145272290?](https://www.linkedin.com/feed/)"> src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
@@ -23,7 +23,7 @@
 </p>
 
 - 💬 Ask me about
-- 📝 I regularly write articles on [- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-amin-145272290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mahmoud-amin-145272290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📝 I regularly write articles and share projects on  [https://www.linkedin.com/in/mahmoud-amin-145272290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mahmoud-amin-145272290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💬 Ask me about *C#, OOP , Solid_Principles , Sql_Server , LiNQ , EntityFrameWork , MVC , WebApi , Repository Pattern With Unit Of Work , JWT , Clean Archeticture*
 
