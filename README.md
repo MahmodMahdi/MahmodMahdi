@@ -33,9 +33,5 @@ Focused on open-source projects and developing practical solutions to real probl
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmodMahdi&" alt="MahmodMahdi" /></p>
 
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔','🐥', '🐣' , '🥚' ]
 
 
