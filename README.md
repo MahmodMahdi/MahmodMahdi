@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Mahmoud  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></h1><hr>
 
-## I'm a Full-Stack .NET Developer and Computer Science & Engineering Student from Egypt
+## I'm a Full-Stack .NET Developer and Computer Science Graduate from Egypt
 Focused on open-source projects and developing practical solutions to real problems.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmodMahdi&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-amin" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahmodMahdi" alt="mahmoud-amin" /></a> </p>
